@@ -1,0 +1,35 @@
+body{
+    padding-top : 20px;
+    padding-bottom : 20px;
+}
+
+.container{
+    
+    background-color: rgb(172, 168, 168);
+    
+    width: 70%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5rem;
+    text-align: center;
+    
+}
+
+#btn{
+    align-content: center;
+}
+
+.box{
+    width:30%;
+    padding: 4em;
+    margin: 3px;
+    background-color: brown;
+}
+
+#timerResults{
+    background-color: aqua;
+    margin:2px;
+}
+
